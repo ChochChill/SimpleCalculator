@@ -65,7 +65,7 @@
                 android:text="+/-"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="30sp"
-                android:background="@color/trueBlue"/>
+                android:background="@drawable/ripple_effect_operations"/>
             <Button
                 android:id="@+id/brackets"
                 android:layout_width="0dp"
@@ -74,7 +74,7 @@
                 android:text="( )"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="30sp"
-                android:background="@color/trueBlue"/>
+                android:background="@drawable/ripple_effect_operations"/>
             <Button
                 android:id="@+id/percent"
                 android:layout_width="0dp"
@@ -83,7 +83,7 @@
                 android:text="%"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="30sp"
-                android:background="@color/trueBlue"/>
+                android:background="@drawable/ripple_effect_operations"/>
             <Button
                 android:id="@+id/divide"
                 android:layout_width="0dp"
@@ -92,7 +92,7 @@
                 android:text="/"
                 android:textColor="@color/iceWhite"
                 android:textSize="30sp"
-                android:background="@color/colorPrimary"/>
+                android:background="@drawable/ripple_effect_operations_01"/>
 
         </LinearLayout>
 
@@ -136,7 +136,7 @@
                 android:text="*"
                 android:textColor="@color/iceWhite"
                 android:textSize="30sp"
-                android:background="@color/colorPrimary"/>
+                android:background="@drawable/ripple_effect_operations_01"/>
 
         </LinearLayout>
 
@@ -180,7 +180,7 @@
                 android:text="-"
                 android:textColor="@color/iceWhite"
                 android:textSize="30sp"
-                android:background="@color/colorPrimary"/>
+                android:background="@drawable/ripple_effect_operations_01"/>
         </LinearLayout>
 
         <LinearLayout
@@ -223,7 +223,7 @@
                 android:text="+"
                 android:textColor="@color/iceWhite"
                 android:textSize="30sp"
-                android:background="@color/colorPrimary"/>
+                android:background="@drawable/ripple_effect_operations_01"/>
 
         </LinearLayout>
 
@@ -267,7 +267,7 @@
                 android:text="="
                 android:textColor="@color/iceWhite"
                 android:textSize="30sp"
-                android:background="@color/colorAccent"/>
+                android:background="@drawable/ripple_effect_operations_02"/>
 
         </LinearLayout>
 
